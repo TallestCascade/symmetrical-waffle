@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "U84NleV/VbbOKRK7FjYMPOCjHh7Zf6AG5wQbwX39J2yww8CWT5MEqtrM/VojhHKpTHrF3xAfgt5edMjRcfqOXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\22HeitzenraterK\\source\\repos\\Simple Payroll\\Simple Payroll\\Simple Payroll.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\22HeitzenraterK\\.nuget\\packages\\documentformat.openxml\\2.11.3\\documentformat.openxml.2.11.3.nupkg.sha512",
+    "C:\\Users\\22HeitzenraterK\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

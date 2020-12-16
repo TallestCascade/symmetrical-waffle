@@ -1,0 +1,16 @@
+C:\Users\22HeitzenraterK\source\repos\Simple Payroll\Simple Payroll\obj\Debug\netcoreapp3.1\Simple Payroll.csprojAssemblyReference.cache
+C:\Users\22HeitzenraterK\source\repos\Simple Payroll\Simple Payroll\obj\Debug\netcoreapp3.1\Simple Payroll.AssemblyInfoInputs.cache
+C:\Users\22HeitzenraterK\source\repos\Simple Payroll\Simple Payroll\obj\Debug\netcoreapp3.1\Simple Payroll.AssemblyInfo.cs
+C:\Users\22HeitzenraterK\source\repos\Simple Payroll\Simple Payroll\obj\Debug\netcoreapp3.1\Simple Payroll.csproj.CoreCompileInputs.cache
+C:\Users\22HeitzenraterK\source\repos\Simple Payroll\Simple Payroll\bin\Debug\netcoreapp3.1\Simple Payroll.exe
+C:\Users\22HeitzenraterK\source\repos\Simple Payroll\Simple Payroll\bin\Debug\netcoreapp3.1\Simple Payroll.deps.json
+C:\Users\22HeitzenraterK\source\repos\Simple Payroll\Simple Payroll\bin\Debug\netcoreapp3.1\Simple Payroll.runtimeconfig.json
+C:\Users\22HeitzenraterK\source\repos\Simple Payroll\Simple Payroll\bin\Debug\netcoreapp3.1\Simple Payroll.runtimeconfig.dev.json
+C:\Users\22HeitzenraterK\source\repos\Simple Payroll\Simple Payroll\bin\Debug\netcoreapp3.1\Simple Payroll.dll
+C:\Users\22HeitzenraterK\source\repos\Simple Payroll\Simple Payroll\bin\Debug\netcoreapp3.1\Simple Payroll.pdb
+C:\Users\22HeitzenraterK\source\repos\Simple Payroll\Simple Payroll\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\22HeitzenraterK\source\repos\Simple Payroll\Simple Payroll\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\22HeitzenraterK\source\repos\Simple Payroll\Simple Payroll\obj\Debug\netcoreapp3.1\Simple Payroll.csproj.CopyComplete
+C:\Users\22HeitzenraterK\source\repos\Simple Payroll\Simple Payroll\obj\Debug\netcoreapp3.1\Simple Payroll.dll
+C:\Users\22HeitzenraterK\source\repos\Simple Payroll\Simple Payroll\obj\Debug\netcoreapp3.1\Simple Payroll.pdb
+C:\Users\22HeitzenraterK\source\repos\Simple Payroll\Simple Payroll\obj\Debug\netcoreapp3.1\Simple Payroll.genruntimeconfig.cache

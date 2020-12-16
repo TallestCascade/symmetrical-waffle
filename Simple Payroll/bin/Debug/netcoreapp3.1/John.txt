@@ -1,0 +1,11 @@
+PAYSLIP FOR DEC 2021
+====================
+Name of Staff: John
+Hours Worked: 2345678
+
+Basic Pay: $70,370,336.00
+Overtime: $36,355,528.00
+
+====================
+Total Pay: $106,725,864.00
+====================

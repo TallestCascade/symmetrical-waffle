@@ -1,0 +1,11 @@
+PAYSLIP FOR DEC 2021
+====================
+Name of Staff: Peter
+Hours Worked: 234567
+
+Basic Pay: $11,728,350.00
+Allowance: $1,000.00
+
+====================
+Total Pay: $11,729,350.00
+====================
